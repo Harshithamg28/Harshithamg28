@@ -4,12 +4,10 @@
 📧 harshithamg28@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/harshitha-madhurig)
 
----
 
 ## About Me
 Data Science graduate with experience in **data engineering, analytics workflows, and AI systems**. Skilled in **Python, SQL, PySpark**, and cloud-based platforms like **AWS Glue** and **Azure HDInsight**. Passionate about building **data-driven solutions** and transforming complex datasets into actionable insights.
 
----
 
 ## Skills
 - **Programming & Data Science:** Python, SQL, PySpark, Pandas, NumPy, Scikit-learn  
@@ -18,7 +16,6 @@ Data Science graduate with experience in **data engineering, analytics workflows
 - **Visualization & Analysis:** Matplotlib, Seaborn  
 - **Tools & Workflow:** Git, JIRA, IntelliJ, Agile Development
 
----
 
 ## Professional Experience
 
@@ -36,7 +33,6 @@ Data Science graduate with experience in **data engineering, analytics workflows
 *Jan 2022 – Jun 2023*  
 - Built and validated **ETL pipelines**, applied data transformations, and prepared datasets for analytics and ML  
 
----
 
 ## Projects
 - **Impact of MNAR Missing Data on Predictive Modeling** – Evaluated missing data impact on models (Linear Regression, Random Forest, MARS)  
@@ -44,7 +40,6 @@ Data Science graduate with experience in **data engineering, analytics workflows
 - **Machine Learning Model Comparison** – Implemented Linear Regression, Random Forest, Decision Trees, SVM with performance evaluation  
 - **Bayesian vs Frequentist Modeling** – Developed Bayesian Gaussian & Gamma models in R (`brms`)  
 
----
 
 ## Education
 **Master of Science – Data Science** | Texas A&M University–Corpus Christi  
