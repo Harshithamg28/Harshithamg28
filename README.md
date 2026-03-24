@@ -48,7 +48,6 @@ Data Science graduate with experience in **data engineering, analytics workflows
 **Bachelor of Engineering – Chemical Engineering** | St. Joseph’s College of Engineering  
 *Aug 2018 – Jun 2022 | GPA: 3.95 / 4.00*  
 
----
 
 ## Fun Fact
 I love combining **math, coding, and AI** to create practical solutions for real-world data challenges! ⚡
