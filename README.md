@@ -1,7 +1,7 @@
 # Hi, I'm Harshitha Madhuri 👋
 
 📍 Corpus Christi, Texas, USA  
-📧 harshithamg28@gmail.com | 📱 +1 (346) 733-3875  
+📧 harshithamg28@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/harshitha-madhurig)
 
 ---
