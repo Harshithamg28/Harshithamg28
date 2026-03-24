@@ -2,7 +2,7 @@
 
 📍 Corpus Christi, Texas, USA  
 📧 harshithamg28@gmail.com | 📱 +1 (346) 733-3875  
-🔗 [LinkedIn](https://linkedin.com/in/harshitha-madhuri-garikapati)
+🔗 [LinkedIn](https://www.linkedin.com/in/harshitha-madhuri-garikapati)
 
 ---
 
